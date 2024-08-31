@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1725014898 source:c:\users\sunev\onedrive\desktop\test\f\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	<winuser.h>
+
+1725109418 source:c:\users\sunev\onedrive\desktop\test\f\main.c
+	<windows.h>
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+
+1725109405 source:c:\users\sunev\onedrive\desktop\test\f\player.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+
+1725047438 c:\users\sunev\onedrive\desktop\test\f\player.c
+	<windows.h>
+	<stdio.h>
+
