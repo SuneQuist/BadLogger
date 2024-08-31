@@ -1,4 +1,4 @@
-###BadLogger
+### BadLogger
 
 So the keymouse_log.txt file is just dumped in the directory that the ./f.exe is executed in.
 Mouse Input:       M[int],X[int],Y[INT]
